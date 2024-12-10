@@ -1,5 +1,5 @@
 # TASK-1
-### 1. ** What kind of problems do we see in nature?**
+### 1. **What kind of problems do we see in nature?**
 
 * ITERATION: Iteration is all about repeating a process or a set of steps in a loop until something specific happens. In nature, iteration pops up in things that happen repeatedly over time or in cycles. For example, in ecosystems, you can see how an eagle relies on a snake, the snake depends on a rat, the rat feeds on insects, and those insects are all about that grass life—so it just keeps going. Another example is the changing seasons that happen every year.
 
@@ -7,7 +7,7 @@
 
 * BACKTRACKING: Backtracking is trying out different options and going back if a chosen path doesn’t work out. It’s a way of solving problems by exploring possibilities. An example is slime molds that spread out to find food and then die off, leaving behind the best routes between points. They navigate their environment based on areas they've already checked out.
 
-### 2. ** What’s time and space efficiency?**
+### 2. **What’s time and space efficiency?**
 
 * Time efficiency refers to how the running time of an algorithm changes as the input size gets bigger. If an algorithm takes way too long (poor time efficiency), it can be a real pain to use, especially in real-time situations or with large datasets.
 
@@ -23,7 +23,7 @@ Different classes of problems and orders of growth:
 - Logarithmic Space - O(log n): Space jumps up in a logarithmic way with input size; common in algorithms like binary search.
 - Exponential Space - O(2^n): Memory grows really fast, typical for algorithms that generate all combos or subsets.
 
-### 3. ** Hierarchical data and how trees help with different problem scenarios:**
+### 3. **Hierarchical data and how trees help with different problem scenarios:**
 * A Binary Search Tree (BST) starts with the first incoming element as the root node. Any subsequent items less than the root go left, while anything greater or equal goes to the right.
 * An AVL tree is a self-balancing BST. It maintains a height difference of no more than one between its left and right subtrees for any node.
 * A Red-Black Tree is another self-balancing binary tree that keeps operations like insertion and deletion efficient.
@@ -34,7 +34,7 @@ Different classes of problems and orders of growth:
 ### 4. **Why do we need Array Query Algorithms?** 
  These algorithms are vital for handling and streamlining tasks like range queries, sum queries, and quick lookups. You’ll find applications in prefix sums, range minimum/maximum queries, and searching. They aim to lower time complexity, especially with large datasets, ensuring responses to queries are lightning-fast. Principles include using prefix sums, segment trees, and Fenwick trees (or Binary Indexed Trees) to make array querying more efficient.
 
-### 5. ** Trees and Graphs:**
+### 5. **Trees and Graphs:**
  * Trees are hierarchical structures with no cycles and just one root node, having a single path between any two nodes. Common traversal methods include Pre-order, In-order, and Post-order, and they’re great for representing hierarchical info like file storage.
 * Graphs are non-hierarchical and can have cycles, allowing multiple paths between nodes. Traversal methods for graphs include Breadth-First Search (BFS) and Depth-First Search (DFS). Graphs are versatile and used in navigation and networking.
 
