@@ -35,7 +35,7 @@ Different classes of problems and orders of growth:
  These algorithms are vital for handling and streamlining tasks like range queries, sum queries, and quick lookups. You’ll find applications in prefix sums, range minimum/maximum queries, and searching. They aim to lower time complexity, especially with large datasets, ensuring responses to queries are lightning-fast. Principles include using prefix sums, segment trees, and Fenwick trees (or Binary Indexed Trees) to make array querying more efficient.
 
 ### 5. **Trees and Graphs:**
- * Trees are hierarchical structures with no cycles and just one root node, having a single path between any two nodes. Common traversal methods include Pre-order, In-order, and Post-order, and they’re great for representing hierarchical info like file storage.
+ * Trees are hierarchical structures with no cycles and just one root node, having a single path between any two nodes. Common traversal methods include Pre-order, In-order, and Post-order.
 * Graphs are non-hierarchical and can have cycles, allowing multiple paths between nodes. Traversal methods for graphs include Breadth-First Search (BFS) and Depth-First Search (DFS). Graphs are versatile and used in navigation and networking.
 
 ### 6. **Sorting and Searching Algorithms:**
