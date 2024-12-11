@@ -1,4 +1,4 @@
-### *9. IT Sector*  
+### *1. IT Sector*  
 - *Tries*:  
   - Manage and search large amounts of data such as employee records or client databases efficiently.  
 
@@ -10,7 +10,7 @@
 
 ---
 
-### *10. Agriculture*  
+### *2. Agriculture*  
 - *Segment Trees*:  
   - Monitor and analyze crop yields in different regions.  
 
@@ -22,7 +22,7 @@
 
 ---
 
-### *11. Commercial Sector*  
+### *3. Commercial Sector*  
 - *Heap*:  
   - Allocate resources to high-demand businesses.  
 
@@ -34,7 +34,7 @@
 
 ---
 
-### *12. Solar-Powered Infrastructure*  
+### *4. Solar-Powered Infrastructure*  
 - *Segment Trees*:  
   - Monitor solar panel efficiency across installations.  
 
@@ -44,4 +44,4 @@
 - *Graph Algorithms*:  
   - *Kruskal’s Algorithm*: Plan solar grid connectivity with minimal costs.
 
----
+
