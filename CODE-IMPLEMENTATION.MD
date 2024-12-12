@@ -56,9 +56,9 @@ class Dijkstra
 public:
     int cost[100][100];
     int v; // Number of vertices
-    int dist[10]; // Array to store shortest distances
-    int path[10]; // Array to store predecessors
-    int visited[10]; // Array to mark visited vertices
+   -  int dist[10]; 
+   - int path[10]; 
+   - int visited[10]; 
 
     void read_cost(int cost[100][100], int v);
     void initiate(int arr[10], int n);
