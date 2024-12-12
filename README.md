@@ -5,7 +5,4 @@
 - [Course Reflection](./COURSE-REFLECTION.MD)
 - [Code implementation](./CODE-IMPLEMENTATION.MD)
 
-#Basic Code
-- [Dijekstra](./DIJEKSTRA.MD)
-- [Kruskal](./KRUSKAL.MD)
-  
+
