@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>DFS Traversal Code</title>
+
 </head>
 <body>
     <h1>DFS Traversal Code</h1>
