@@ -45,4 +45,5 @@
   - *Kruskal’s Algorithm*: Plan solar grid connectivity with minimal costs.
 
 -[KRUSKAL](./KRUSKAL.MD)
+-[DIJEKSTRAS-CODE](./DIJEKSTRAS-CODE.MD)
 
