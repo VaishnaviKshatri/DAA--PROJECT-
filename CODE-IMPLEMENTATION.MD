@@ -177,9 +177,9 @@ using namespace std;
 
 class d {
 public:
-    int u;
-    int v;
-    int w;
+   - int u;
+   - int v;
+   - int w;
 };
 
 // Function to check if two vertices are in the same set
